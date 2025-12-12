@@ -1,0 +1,61 @@
+<!-- Profile Header -->
+<h1 align="center">Hi, I'm Oleksandr 👋</h1>
+<p align="center">
+  Android / Kotlin Multiplatform engineer • Compose Multiplatform • Backend-friendly
+</p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+</p>
+
+---
+
+## 🔥 About me
+- I build **Kotlin** apps (Android + KMP) with **Jetpack Compose / Compose Multiplatform**
+- I care about **architecture, performance, and developer experience**
+- Interests: WMS / logistics, data analysis, backend integration (Ktor, PostgreSQL, Redis)
+
+---
+
+## 🧰 Tech stack
+<p>
+  <img alt="Kotlin" src="https://img.shields.io/badge/Kotlin-7F52FF?logo=kotlin&logoColor=white" />
+  <img alt="Android" src="https://img.shields.io/badge/Android-3DDC84?logo=android&logoColor=white" />
+  <img alt="Compose" src="https://img.shields.io/badge/Jetpack%20Compose-4285F4?logo=jetpackcompose&logoColor=white" />
+  <img alt="KMP" src="https://img.shields.io/badge/Kotlin%20Multiplatform-000000?logo=kotlin&logoColor=white" />
+  <img alt="Ktor" src="https://img.shields.io/badge/Ktor-087CFA?logo=ktor&logoColor=white" />
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" />
+</p>
+
+---
+
+## 📈 Live GitHub stats
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xelon-ua&show_icons=true&rank_icon=github&include_all_commits=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelon-ua&layout=compact&langs_count=8" />
+</p>
+
+<p align="center">
+  <img height="165" src="https://streak-stats.demolab.com?user=xelon-ua" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=xelon-ua" />
+</p>
+
+---
+
+## 🏆 Highlights
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=xelon-ua&row=1&column=6" />
+</p>
+
+---
+
+## 📌 Pinned projects
+[![Compose Data Table](https://github-readme-stats.vercel.app/api/pin/?username=White-Wind-LLC&repo=table)](https://github.com/White-Wind-LLC/table)
+
+---
+
+## 🤝 Let’s collaborate
+If you’re building Android/KMP products or need help with architecture & delivery — feel free to reach out.
