@@ -36,26 +36,10 @@
 </p>
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=xelon-ua" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=xelon-ua" />
-</p>
-
----
-
-## 🏆 Highlights
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=xelon-ua&row=1&column=6" />
 </p>
 
 ---
 
 ## 📌 Pinned projects
 [![Compose Data Table](https://github-readme-stats.vercel.app/api/pin/?username=White-Wind-LLC&repo=table)](https://github.com/White-Wind-LLC/table)
-
----
-
-## 🤝 Let’s collaborate
-If you’re building Android/KMP products or need help with architecture & delivery — feel free to reach out.
