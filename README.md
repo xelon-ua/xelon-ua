@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN/">LinkedIn</a> •
+  <a href="https://www.linkedin.com/in/oleksandr-hlotov-1a769839/">LinkedIn</a>
 </p>
 
 ---
