@@ -31,8 +31,8 @@
 
 ## 📈 Live GitHub stats
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=xelon-ua&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xelon-ua&layout=compact&langs_count=8&theme=tokyonight" />
+  <img height="165" src="https://xelon-github-readme-stats.vercel.app/api?username=xelon-ua&show_icons=true&rank_icon=github&include_all_commits=true&theme=tokyonight" />
+  <img height="165" src="https://xelon-github-readme-stats.vercel.app/api/top-langs/?username=xelon-ua&layout=compact&langs_count=8&theme=tokyonight" />
 </p>
 
 <p align="center">
@@ -42,4 +42,4 @@
 ---
 
 ## 📌 Pinned projects
-[![Compose Data Table](https://github-readme-stats.vercel.app/api/pin/?username=White-Wind-LLC&repo=table&theme=tokyonight)](https://github.com/White-Wind-LLC/table)
+[![Compose Data Table](https://xelon-github-readme-stats.vercel.app/api/pin/?username=White-Wind-LLC&repo=table&theme=tokyonight)](https://github.com/White-Wind-LLC/table)
