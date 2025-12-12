@@ -43,3 +43,4 @@
 
 ## 📌 Pinned projects
 [![Compose Data Table](https://xelon-github-readme-stats.vercel.app/api/pin/?username=White-Wind-LLC&repo=table&theme=tokyonight)](https://github.com/White-Wind-LLC/table)
+[![Exposed Filters](https://xelon-github-readme-stats.vercel.app/api/pin/?username=White-Wind-LLC&repo=exposed-filters&theme=tokyonight)](https://github.com/White-Wind-LLC/exposed-filters)
